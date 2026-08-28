@@ -1,2 +1,2 @@
-background.png,5CDFCB018899947B67C0936FAB4A3265372D9FF8F8173D2B9DF2BD8C09806A85,https://raw.githubusercontent.com/SavageLykos/Shards_Client/main/background.png
-Shards_Launcher.exe,E7964384EAE2CC7F81FCC76A9CD663F2C75609A6DB0B68FAB2DCA7662FB4FFAE,https://github.com/SavageLykos/Shards_Client/releases/download/Test/Shards_Launcher.exe
+background.png,5CDFCB018899947B67C0936FAB4A3265372D9FF8F8173D2B9DF2BD8C09806A85,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/background.png
+Shards_Launcher.exe,E7964384EAE2CC7F81FCC76A9CD663F2C75609A6DB0B68FAB2DCA7662FB4FFAE,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/Launcher.exe
