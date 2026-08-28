@@ -1,3 +1,3 @@
 background.png,5CDFCB018899947B67C0936FAB4A3265372D9FF8F8173D2B9DF2BD8C09806A85,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/background.png
-discord_logo.png,f6c1a66250d366d213789faefab59a9ec6ac6334e6c4be0af254680c148810dc,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/discord_logo.png
+discord_logo.png,F6C1A66250D366D213789FAEFAB59A9EC6AC6334E6C4BE0AF254680C148810DC,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/discord_logo.png
 Launcher.exe,3BC414D73DF08266901187CF2B91F0B6F15C30F3A1BF24FFDF7FFAFBAE0D0F61,https://github.com/SavageLykos/Shards_Client/releases/download/launcher/Launcher.exe
